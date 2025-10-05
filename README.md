@@ -1,7 +1,6 @@
 # PyleManager
-A Code Editor for Windows, and Linux
-
-
+A Code Editor for Windows, and Linux by the GseppoSoft group
+------------------------------------------------------------------------------
 
 Ladies and Gentlemen,
 
